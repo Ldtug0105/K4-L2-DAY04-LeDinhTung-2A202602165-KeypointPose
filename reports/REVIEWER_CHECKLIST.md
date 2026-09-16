@@ -26,9 +26,6 @@ python3 tools/visibility_report.py --labels dataset/labels/train --compare <bài
 
 ## Lỗi tìm được
 
-Chép sang `reports/review_partner.md`. Mỗi dòng một lỗi, đủ bốn cột - người sửa phải
-mở đúng chỗ đó được mà không cần hỏi lại.
-
 | Ảnh | Người thứ | Khớp | Lỗi gì | Sửa thế nào |
 | --- | ---: | --- | --- | --- |
 | train_13.jpg | 1 | toàn bộ skeleton | Thiếu một người so với gold | Bổ sung người còn thiếu, đủ 17 điểm. |
